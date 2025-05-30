@@ -1,0 +1,19 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    height: 50px;
+    border: 7px dotted black;
+    border-radius: 5px;
+}
+
+.link-header{
+    position: absolute;
+    top: 25px;
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    border: 5px solid grey;
+    border-radius: 10px;
+}
